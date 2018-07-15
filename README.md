@@ -18,6 +18,7 @@ At this point, it is important to acknowledge that -much as we wish to contribut
 See the [Lab Notebook #1](https://github.com/ludwa6/soil_sensing/blob/master/sensor_test1.ipynb) for data analysis from the 1st test sensor. (Alt: [relative link](/sensor_test1.ipynb))
 
 ## Project Road-Map
+_with estimated completion dates_
 1. Complete initial testing of sensor #1 (located off-farm, i.e. owner's home in Burgau) and data flow, per [Lab Notebook #1](https://github.com/ludwa6/soil_sensing/blob/master/sensor_test1.ipynb) _July 20 2018_
 2. Expand sensor test to include the first group of sensors deployed on-farm (located convenient to Farm Office for easy monitoring) _August 3 2018_
 3. Based on learning derived from steps 1 and 2 above, develop a report to inform decisions and workflow associated with the next step _August 17, 2018_ 
